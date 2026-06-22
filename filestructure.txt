@@ -1,0 +1,12 @@
+|-- assets
+    |-- caremate.png
+    |-- edutube.png
+    |-- favicon.png
+    |-- fireguard_Ai.png
+    |-- nexus_ai.png
+    |-- share-image.webp
+|-- index.html
+|-- profile_pic_2.webp
+|-- resume.pdf
+|-- robots.txt
+|-- sitemap.xml
