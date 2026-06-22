@@ -5,6 +5,7 @@
     |-- fireguard_Ai.png
     |-- nexus_ai.png
     |-- share-image.webp
+|-- googlecd1e62fd73d1956a.html
 |-- index.html
 |-- profile_pic_2.webp
 |-- resume.pdf
